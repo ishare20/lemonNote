@@ -24,6 +24,7 @@ Android [柠檬便签v1.0.apk-6.8MB](https://www.123pan.com/s/y4HrVv-HbKlA.html)
 ```
 
 ## 应用截图
+![lemonNote](https://sibtools.app/lemon_note/images/lemon_note.jpg)
 
 ## 支持开发者
 
