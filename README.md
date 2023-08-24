@@ -7,7 +7,7 @@
  - 本地存储、无需权限
 
 ## 下载地址
-Android [柠檬便签v1.0.apk-6.8MB](https://www.123pan.com/s/y4HrVv-HbKlA.html)
+Android [柠檬便签v1.0.0.apk-6.8MB](https://www.123pan.com/s/y4HrVv-HbKlA.html)
 
 ## 开发背景
 柠檬便签主要开发目的是简化复制流程
